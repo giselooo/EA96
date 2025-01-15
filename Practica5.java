@@ -4,7 +4,7 @@ class Solution {
         List<Boolean> result = new ArrayList<>();
         int greatest = 0;
         for(int i = 0; i<candies.size();i++){
-            if(greatest=candies.get(i)
+            if(greatest=candies.get(i))
             }
         }
 
@@ -15,3 +15,4 @@ class Solution {
 
        return result;
       
+    }
